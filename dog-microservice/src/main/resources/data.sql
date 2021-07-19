@@ -5,5 +5,5 @@ VALUES
        (2, 'Spot', 'Pit Bull', 'Austin, TX'),
        (3, 'Ginger', 'Cocker Spaniel', 'Kansas City, KS'),
        (4, 'Lady', 'Direwolf', 'The North'),
-       (5, 'Sasha', 'Husky', 'Buffalo, NY');
-       (5, 'Henry', 'Baoule', 'Abidjan, CI');
+       (5, 'Sasha', 'Husky', 'Buffalo, NY'),
+       (6, 'Henry', 'Baoule', 'Abidjan, CI');
